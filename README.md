@@ -127,7 +127,9 @@ Consumer segment is the strongest customer group.
 ---
 
 ## 📷 Dashboard Preview
-<img src="dashboard_preview.png" width="1100">
+<p align="center">
+  <img src="SUPERSTORE%20SALES%20DASHBORD%2023_04_2026%2015_49_14.png" width="1100">
+</p>
 
 
 ---
