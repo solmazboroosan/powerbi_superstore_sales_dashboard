@@ -127,7 +127,7 @@ Consumer segment is the strongest customer group.
 ---
 
 ## 📷 Dashboard Preview
-<img src="dashboard_preview.png" width="1200">
+<img src="dashboard_preview.png" width="1100">
 
 
 ---
