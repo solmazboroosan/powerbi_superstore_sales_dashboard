@@ -152,14 +152,4 @@ Consumer segment is the strongest customer group.
 
 ---
 
-## 👩‍💻 Author
 
-Solmaz Boroosan
-
-LinkedIn: Add your LinkedIn profile link here
-
----
-
-## ⭐ If you liked this project
-
-Feel free to connect with me and explore more dashboards.
